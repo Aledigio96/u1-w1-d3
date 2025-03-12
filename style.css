@@ -44,7 +44,13 @@ main h3 {
 .rigatop {
   margin-top: 20px;
   margin-bottom: 0;
+  border-color: rgb(160, 126, 64);
+  border-style: solid;
 }
 .mixing {
   margin-left: 36px;
+}
+.bordodinistro {
+  border-left: 2px;
+  border-color: orange;
 }
