@@ -1,0 +1,50 @@
+header {
+  text-align: center;
+  margin: auto;
+}
+main {
+  width: 650px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+.foc {
+  width: 100%;
+  border-radius: 10px;
+}
+.dscr {
+  text-align: center;
+  color: rgba(17, 2, 2, 0.4);
+}
+header h3 {
+  background-color: #dfdf7b30;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-size: 13px;
+  color: #107777;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+main h3 {
+  color: red;
+  margin-bottom: 0%;
+}
+.prima {
+  margin-top: 0%;
+  color: #57acbd;
+}
+.ingredienti {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+.rigamethod {
+  color: rgba(95, 159, 180, 0.677);
+}
+.rigatop {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.mixing {
+  margin-left: 36px;
+}
